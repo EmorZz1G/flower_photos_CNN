@@ -1,0 +1,2 @@
+model_checkpoint_path: "flower1"
+all_model_checkpoint_paths: "flower1"
